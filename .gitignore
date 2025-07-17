@@ -1,0 +1,40 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Runtime files
+.env
+database.sqlite
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+*.pid
+*.seed
+*.tgz
+
+# Coverage & test
+coverage/
+.nyc_output/
+test-results.xml
+
+# IDEs & editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Optional: dist builds
+dist/
+build/
